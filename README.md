@@ -1,1 +1,1 @@
-# idea-maker-frontend
+# Idea Maker Frontend
